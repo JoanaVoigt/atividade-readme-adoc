@@ -20,3 +20,50 @@ administração da biblioteca, garantindo uma gestão eficiente e eficaz.
 * 📂 **Sistema de login e autenticação** para administradores e usuários.
 
 == 👨‍💻 Tecnologias Utilizadas
+* **1 Frontend**
+** **Angular:** Framework utilizado para o desenvolvimento da
+interface de usuário, permitindo uma aplicação interativa e
+responsiva.
+* **2 Backend**
+** **Spring Boot (Java):** Framework utilizado para o desenvolvimento
+da API, que gerencia os empréstimos, os livros e os usuários.
+* **3 Banco de Dados**
+** **MySQL:** Banco de dados relacional utilizado para armazenar
+informações sobre empréstimos, usuários e livros.
+* **4. Autenticação**
+** **JWT (JSON Web Tokens):** Utilizado para garantir a segurança
+no processo de autenticação e autorização de usuários.
+
+== ⁉ Como Executar
+**1. Clone o Repositório**
+Clone o repositório para o seu ambiente local com o comando:
+[source,sh]
+----
+git clone https://github.com/usuario/sistema-biblioteca.git
+----
+
+**2. Instale as Dependências do Frontend**
+Navegue até o diretório do frontend e instale as dependências com npm:
+[source,sh]
+----
+cd sistema-biblioteca/frontend
+npm install
+----
+
+**3. Instale as Dependências do Backend**
+Navegue até o diretório do backend e instale as dependências com
+Maven:
+[source,sh]
+----
+cd sistema-biblioteca/backend
+mvn install
+----
+
+**3. Instale as Dependências do Backend**
+Navegue até o diretório do backend e instale as dependências com
+Maven:
+[source,sh]
+----
+cd sistema-biblioteca/backend
+mvn install
+----
